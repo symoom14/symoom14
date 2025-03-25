@@ -7,16 +7,21 @@
 ---
 
 ## **📂 My Portfolio Projects**
+ 
+🔹 [**Food Blog App**](https://github.com/symoom14/Food-Blog-App)  
+   - **Tech Stack:** React Native, Expo, Lottie  
+   - **Features:** Food journalling app to record food experiences with monthly stat tracking and restaurant, price, calorie tracker. 
+     
 🔹 [**Job Application Tracker**](https://github.com/symoom14/Job-Tracker)  
    - **Tech Stack:** React, Tailwind CSS (CDN), PHP, MySQL  
-   - **Features:** Track job applications, update statuses, add notes  
-
+   - **Features:** Track job applications, update statuses, add notes 
+     
 🔹 **More projects coming soon!** 🚀
 
 ---
 
 ## **💻 Technical Skills**
-✔ **Frontend:** React, HTML, CSS, Tailwind CSS  
+✔ **Frontend:** React, React Native, HTML, CSS, Tailwind CSS  
 ✔ **Backend:** PHP, MySQL  
 ✔ **Tools & Platforms:** Git, GitHub, XAMPP, Apache, Postman  
 ✔ **Other:** C++, C#, Python, JavaScript
